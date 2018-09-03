@@ -1,4 +1,4 @@
-# Required Software
+### Required Software
 
 * [Vagrant](https://www.vagrantup.com/)
 * [Ansible](https://www.ansible.com/) 
